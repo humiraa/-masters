@@ -22,3 +22,6 @@ marketers estimate customer satisfaction and optimize pricing strategies.
 A classification model that predicts a book’s likely rating (1–5 stars) based on its price and 
 genre—useful for modeling reader sentiment or refining sales strategy.
 
+## 🔗Dataset link
+https://www.kaggle.com/datasets/benjnb/online-bookstore-dataset?resource=download
+
