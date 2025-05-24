@@ -12,15 +12,14 @@ marketers estimate customer satisfaction and optimize pricing strategies.
 
 ## 🧩 Problem Statement
 **Task**: Predict book ratings from price and genre.  
-**ML Type**: Classification  
-**Target**: `rating` (converted to numeric: 1–5)  
+**ML Type**: Classification 
 **Features**:  
 - `price` (numerical)  
 - `category` (categorical, encoded)
 
 ## 🚀 Outcome
 A classification model that predicts a book’s likely rating (1–5 stars) based on its price and 
-genre—useful for modeling reader sentiment or refining sales strategy.
+genre.
 
 ## 🔗Dataset link
 https://www.kaggle.com/datasets/benjnb/online-bookstore-dataset?resource=download
