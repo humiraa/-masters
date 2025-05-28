@@ -8,14 +8,11 @@ techniques.
 
 ## 🌍 Real-World Use Case
 Understanding how price and genre influence book ratings can help publishers, bookstores, and 
-marketers estimate customer satisfaction and optimize pricing strategies.
+marketers estimate customer satisfaction and optimise pricing strategies.
 
 ## 🧩 Problem Statement
 **Task**: Predict book ratings from price and genre.  
-**ML Type**: Classification 
-**Features**:  
-- `price` (numerical)  
-- `category` (categorical, encoded)
+**ML Type**: Classification
 
 ## 🚀 Outcome
 A classification model that predicts a book’s likely rating (1–5 stars) based on its price and 
